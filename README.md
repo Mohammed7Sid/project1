@@ -127,8 +127,3 @@ I am an innovative and hands-on **SDET Lead with 14 years of experience** bridgi
 * 
 **Location:** Bengaluru, India 
 
-
-
----
-
-Would you like me to help you draft a specific **"Featured Projects"** section with code-oriented descriptions for your pinned repositories?
